@@ -1,0 +1,6 @@
+->First we need to download the data
+->Next step is to uploading the data to our app that is created in qlik sense
+   ->click on +Add new--new analytics app--navigate to the open the app preview
+   ->upload the data 
+   ->to check the data that is uploaded go to prepare-- data manager
+   ->we can see the below result
